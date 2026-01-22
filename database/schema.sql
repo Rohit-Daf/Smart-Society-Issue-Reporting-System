@@ -9,7 +9,8 @@ GO -- USER TABLE
         flatNo NVARCHAR(20),
         phone NVARCHAR(15),
         email NVARCHAR(100) UNIQUE NOT NULL,
-        role NVARCHAR(50) NOT NULL
+        role NVARCHAR(50) NOT NULL,
+        passwordHash NVARCHAR(255) NOT NULL
     );
 -- STAFF TABLE
 CREATE TABLE issues.STAFF (
