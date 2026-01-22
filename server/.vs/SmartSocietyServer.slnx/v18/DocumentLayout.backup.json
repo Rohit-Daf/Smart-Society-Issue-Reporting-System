@@ -63,8 +63,7 @@
               "RelativeToolTip": "AuthService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T13:11:06.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:11:06.44Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "AuthService\\Data\\AuthDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T13:06:50.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:06:50.115Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "IssueService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-21T13:03:21.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:03:21.886Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "AuthService\\AuthService.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-01-21T13:02:54.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:02:54.784Z"
             },
             {
               "$type": "Document",
@@ -115,21 +111,19 @@
               "RelativeToolTip": "AuthService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-21T13:00:21.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:00:21.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthService",
+              "Title": "AuthService.csproj",
               "DocumentMoniker": "E:\\CDAC\\project\\Smart-Society-Issue-Reporting-System\\server\\AuthService\\AuthService.csproj",
               "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
               "ToolTip": "E:\\CDAC\\project\\Smart-Society-Issue-Reporting-System\\server\\AuthService\\AuthService.csproj",
               "RelativeToolTip": "AuthService\\AuthService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-21T12:59:38.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T12:59:38.22Z"
             }
           ]
         }
